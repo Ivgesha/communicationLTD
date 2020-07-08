@@ -1,6 +1,7 @@
 The main goal of the project is to create a website with java and test it with few penetrasion tests. 
 
 The project is written with java and php, using Tomcat server and mysql as database.  
+The project uses sha-1 and salt for saving encrypted data into the database. 
 More over you can look in to the next fiels: presentation,DREAD model, Vulnerability for more details and explanations.
 
 

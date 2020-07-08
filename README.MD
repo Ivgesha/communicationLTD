@@ -1,3 +1,9 @@
+The main goal of the project is to create a website with java and test it with few penetrasion tests. 
+
+The project is written with java and php, using Tomcat server and mysql as database.  
+More over you can look in to the next fiels: presentation,DREAD model, Vulnerability for more details and explanations.
+
+
 # How to set up the project
 
 *Note: follow this steps only if you choose to use the vagrant development box: https://github.com/nati-elmaliach/vagrant-java-development-server, if not the states may differ. 

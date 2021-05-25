@@ -1,4 +1,4 @@
-The main goal of the project is to create a website with java and test it with few penetrasion tests. 
+The main goal of the project is to create a website with java and test it with penetrasion tests. 
 
 The project is written with java, using Tomcat server and mysql as database.  
 The project uses sha-1 and salt for saving encrypted data into the database. 
